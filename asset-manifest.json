@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newreacttest/static/css/main.073c9b0a.css",
+    "main.js": "/newreacttest/static/js/main.265366f6.js",
+    "static/js/787.2cd2b38a.chunk.js": "/newreacttest/static/js/787.2cd2b38a.chunk.js",
+    "static/media/logo.svg": "/newreacttest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/newreacttest/index.html",
+    "main.073c9b0a.css.map": "/newreacttest/static/css/main.073c9b0a.css.map",
+    "main.265366f6.js.map": "/newreacttest/static/js/main.265366f6.js.map",
+    "787.2cd2b38a.chunk.js.map": "/newreacttest/static/js/787.2cd2b38a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.265366f6.js"
+  ]
+}
