@@ -10,6 +10,7 @@ function App() {
           {/* Edit <code>src/App.js</code> and save to reload. */}
 
           <h1>Learn DevOPs..</h1>
+          <h1>preparing for aws cloud practitioner exam</h1>
         </p>
         <a
           className="App-link"
