@@ -3,7 +3,7 @@ name: daksh page deploy
 on:
   push:
     branches:
-      - "master"
+      - "gh-pages"
 
 jobs:
   build:
